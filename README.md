@@ -2,10 +2,14 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+xertz;I+build+ALOS;Go+%2B+Linux+kernel+%2B+XDP;Writing+things+from+scratch" alt="typing" />
 
+<br/>
+
 <img src="https://komarev.com/ghpvc/?username=guno1928&color=blue&style=flat" />
 
-[![Site](https://img.shields.io/badge/alos.gg-website-00d4ff?style=for-the-badge&logo=cloudflare&logoColor=white)](https://alos.gg)
-[![Email](https://img.shields.io/badge/xertz%40alos.gg-contact-1a1a2e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xertz@alos.gg)
+<br/><br/>
+
+[![Site](https://img.shields.io/badge/alos.gg-website-0d1117?style=for-the-badge&logo=cloudflare&logoColor=00d4ff&labelColor=1a1a2e)](https://alos.gg)
+[![Email](https://img.shields.io/badge/xertz%40alos.gg-contact-0d1117?style=for-the-badge&logo=gmail&logoColor=00d4ff&labelColor=1a1a2e)](mailto:xertz@alos.gg)
 
 </div>
 
@@ -50,13 +54,15 @@ A Go web framework written from scratch to be the fastest web framework in the w
 </tr>
 </table>
 
-## 📊 Stats
+## 🛡️ ALOSWALL in action
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=guno1928&theme=tokyonight&hide_border=true&background=0d1117" />
+<img src="./shield.svg" width="100%" />
 
-<img src="https://ghchart.rshah.org/00d4ff/guno1928" width="100%" />
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=guno1928&theme=tokyonight&hide_border=true&background=0d1117" />
 
 </div>
 
